@@ -3,7 +3,7 @@
 Estudante do ifrn no curso de informatica
 
 ## ESTUDANDO
-HTML 5
+HTML 5 \n
 CSS3
 PYTHON
 JAVASCRIPT
